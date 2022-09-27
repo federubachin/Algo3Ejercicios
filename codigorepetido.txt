@@ -1,0 +1,3 @@
+1) la lista de clientes
+2) podemos representar los entes de la realidad con las instancias de las clases. Tambien se pueden usar variables dentro de las clases
+3)la  relacion es que al tener comportamiento intelectual sobre el comportamiento de estos objetos la persona es capaz de crear esas abstracciones. Al tener solo comportamiento inteligente puede hacerlo funcionar pero repitiendo codigo
